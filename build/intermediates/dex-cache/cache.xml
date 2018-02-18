@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\felten\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\felten\Documents\privat\AndroidProjects\FireDroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_47993fa7d5dc817b5a8bdea9033c874a3aa85f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felten\Documents\privat\AndroidProjects\FireDroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\felten\Documents\privat\AndroidProjects\FireDroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6b7d4e31fbbe0d804cf1bc46b70cc3fbf0a6acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\felten\Documents\privat\AndroidProjects\FireDroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a1dab69e848e3cb4036bc433b6f5aa759dd18ef">
+        <dex dex="C:\Users\felten\Documents\privat\AndroidProjects\FireDroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_59b9623be9e99818501d80a1b8cb0257e42077ca\classes.dex" />
+    </item>
+
+</items>

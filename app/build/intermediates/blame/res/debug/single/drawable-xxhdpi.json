@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_update_button_4.png",
+        "source": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_update_button_4.png"
+    },
+    {
+        "merged": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_refresh_button_4.png",
+        "source": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_refresh_button_4.png"
+    },
+    {
+        "merged": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_update_button_3.png",
+        "source": "C:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_update_button_3.png"
+    }
+]

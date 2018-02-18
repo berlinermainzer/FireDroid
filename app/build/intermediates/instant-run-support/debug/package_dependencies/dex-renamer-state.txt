@@ -1,0 +1,4 @@
+#Sat Dec 23 19:01:18 CET 2017
+base.0=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_47993fa7d5dc817b5a8bdea9033c874a3aa85f4f
+renamed.0=classes.dex
+file.0=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_47993fa7d5dc817b5a8bdea9033c874a3aa85f4f\\classes.dex

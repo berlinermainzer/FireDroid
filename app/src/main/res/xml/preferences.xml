@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/prefs_server_title" >
+        <EditTextPreference
+            android:key="prefs_server_name_key"
+            android:summary="@string/prefs_server_name_summary"
+            android:title="@string/prefs_server_name" 
+            android:defaultValue="@string/prefs_server_name_default"/>
+        <EditTextPreference
+            android:key="prefs_server_port_key"
+            android:summary="@string/prefs_server_port_summary"
+            android:title="@string/prefs_server_port"
+            android:defaultValue="@string/prefs_server_port_default"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen> 

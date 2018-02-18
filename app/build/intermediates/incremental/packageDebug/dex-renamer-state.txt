@@ -1,0 +1,7 @@
+#Sat Dec 23 19:01:19 CET 2017
+base.0=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6b7d4e31fbbe0d804cf1bc46b70cc3fbf0a6acf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_59b9623be9e99818501d80a1b8cb0257e42077ca\\classes.dex
+base.1=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_59b9623be9e99818501d80a1b8cb0257e42077ca
+file.0=C\:\\Users\\felten\\Documents\\privat\\AndroidProjects\\FireDroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c6b7d4e31fbbe0d804cf1bc46b70cc3fbf0a6acf\\classes.dex
